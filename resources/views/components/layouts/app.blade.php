@@ -12,7 +12,7 @@
 <body>
 
     <div class="container">
-        {{ $lot }}
+        {{ $slot }}
     </div>
 
     <link rel="stylesheet" href="{{ asset('assets/js/bootstrap.bundle.min.js') }}">
